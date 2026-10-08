@@ -3,6 +3,13 @@ h1 {
   text-align: center; 
   
 }
+.nav {
+  display: flex; 
+  list-style: none;
+  gap: 2rem; 
+
+}
+
 p { 
   font-family: Georgia, serif;
 }
@@ -13,9 +20,6 @@ article {
   text-align: center;
 }
 nav {
-  display: flex; 
-  list-style: none;
-  gap: 2rem; 
   background-color: LightGray; 
   font-family: Georgia, serif; 
   font-size: 30px 
