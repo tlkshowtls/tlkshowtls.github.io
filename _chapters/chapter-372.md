@@ -65,14 +65,14 @@ It was...
 It was a flyer.
 
 A glossy paper advertisement with a tacky appearance, commonly called a “flyer.”
-<div class = "paper">  
-**Job Seekers Wanted**
 
-**Urgent\!**
+> **Job Seekers Wanted**
+>
+>**Urgent\!**
+>
+> **• Next Up: From Community College Straight to a Major Corporation\!**
+{: .paper }
 
-**• Next Up: From Community College Straight to a Major Corporation\!**
-
-</div>
 Black text on a yellow background.
 
 Some of the letters were missing due to tears, but the context was clear.
