@@ -1,2 +1,5 @@
-test
-please
+---
+layout: default
+title: test
+---
+hi
