@@ -8,6 +8,7 @@ h1 {
   list-style: none;
   gap: 2rem; 
   color: black; 
+  margin: 0px; 
 
 
 }
@@ -16,8 +17,11 @@ p {
   font-family: Georgia, serif;
 }
 article {
-  margin: 50px 400px;
-}
+  max-width: 550px;
+  margin-right: auto;
+  margin-left: auto;
+  overflow-wrap: break-word;
+
 .paper {
   text-align: center;
   border: 2px solid black; 
