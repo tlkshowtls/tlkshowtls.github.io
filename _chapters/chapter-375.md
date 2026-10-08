@@ -1,3 +1,8 @@
+---
+layout: default
+title: CHAPTER 372
+---
+
 # **CHAPTER 375**
 
 And so, a morning as listless and miserable as ever dawned upon me.
