@@ -1,5 +1,9 @@
 
-@import "{{ 
+---
+---
+
+@import "{{ kys }}";
+
 body {
   font-family: Georgia, serif; 
 }
@@ -45,4 +49,3 @@ nav {
 header {
     text-align: center; 
 }
-}}";
