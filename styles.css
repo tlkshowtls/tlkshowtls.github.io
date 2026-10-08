@@ -1,9 +1,15 @@
 h1 {
   font-family: Georgia, serif; 
   text-align: center; 
+  
 }
 p { 
   font-family: Georgia, serif;
   text-align: center; 
 
+}
+.nav {
+  display: flex; 
+  list-style: none;
+  gap: 2rem; 
 }
