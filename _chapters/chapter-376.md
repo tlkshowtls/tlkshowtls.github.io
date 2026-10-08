@@ -1,3 +1,8 @@
+---
+layout: default
+title: CHAPTER 372
+---
+
 # **CHAPTER 376**
 
 *Thud.*
