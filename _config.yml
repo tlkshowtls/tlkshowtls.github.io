@@ -1,6 +1,10 @@
 
 title: "tlkshow"
 markdown: kramdown
-permalink: /chapters/:name.html
+
+collections:
+  chapters:
+    output: true
+    permalink: /chapters/:name.html
 url: "https://tlkshowtls.github.io"
 output: true
