@@ -6,15 +6,17 @@ h1 {
 p { 
   font-family: Georgia, serif;
 }
-.nav {
-  display: flex; 
-  list-style: none;
-  gap: 2rem; 
-}
 article {
   margin: 50px 400px;
 }
 .center {
   text-align: center;
 }
-
+nav {
+  display: flex; 
+  list-style: none;
+  gap: 2rem; 
+  background-color: LightGray; 
+  font-family: Georgia, serif; 
+  font-size: 30px 
+} 
