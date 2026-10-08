@@ -1,2 +1,7 @@
-title: tlkshow
+
+title: "tlkshow"
 markdown: kramdown
+collections:
+  chapters:
+    output: true
+    permalink: /chapters/:name.html
