@@ -1,5 +1,9 @@
----
----
+
+@import "{{ 
+body {
+  font-family: Georgia, serif; 
+}
+
 h1 {
   font-family: Georgia, serif; 
   text-align: center; 
@@ -41,3 +45,4 @@ nav {
 header {
     text-align: center; 
 }
+}}";
