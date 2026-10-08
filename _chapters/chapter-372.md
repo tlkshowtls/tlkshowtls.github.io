@@ -7,3 +7,4 @@ hi this thinngs a fking bum bro
 i will explode istg
 im actually a chud bc this WHOLE time the file was pulling from an imaginary file in assets/css like?? ? wth bro istg
  WHY IS IT BACK TO ARIAL WHAT THE FUCK
+istg the issue better not be me putting FKIGN STYLEWITHUT THE S
