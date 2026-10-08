@@ -3,5 +3,4 @@ title: "tlkshow"
 markdown: kramdown
 permalink: /chapters/:name.html
 url: "https://tlkshowtls.github.io"
-theme: kys 
 output: true
