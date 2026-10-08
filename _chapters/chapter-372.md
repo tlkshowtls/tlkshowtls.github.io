@@ -107,10 +107,10 @@ His flailing hand clenched the flyer tightly.
 
 There was more writing, scrawled in black marker.
 
-*Daily pay upon application\!*
+> *Daily pay upon application\!*
 
-*500,000 won in cash*
-
+> *500,000 won in cash*
+{: .paper }
 500,000 won.
 
 “...”
