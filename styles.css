@@ -11,3 +11,6 @@ p {
   list-style: none;
   gap: 2rem; 
 }
+article {
+  margin: 20px auto;
+}
