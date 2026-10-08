@@ -1,3 +1,8 @@
+---
+layout: default
+title: CHAPTER 372
+---
+
 # **CHAPTER 377**
 
 The containment room for ghost story Qterw-C-348.
