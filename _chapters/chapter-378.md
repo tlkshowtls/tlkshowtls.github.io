@@ -1,3 +1,8 @@
+---
+layout: default
+title: CHAPTER 372
+---
+
 # **CHAPTER 378**
 
 I thought I must have seen it wrong.
