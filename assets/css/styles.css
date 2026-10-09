@@ -22,7 +22,10 @@ h1 {
 
 
 }
-
+.textmsg {
+  text-align: right;
+  font-family: 'Courier New', sans-serif;
+}
 p { 
   font-family: Georgia, serif;
 }
