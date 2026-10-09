@@ -108,7 +108,7 @@ His flailing hand clenched the flyer tightly.
 There was more writing, scrawled in black marker.
 
 > *Daily pay upon application\!*
-
+>
 > *500,000 won in cash*
 {: .paper }
 500,000 won.
@@ -199,14 +199,14 @@ The smartphone screen, which had been flickering on the ground, went dark.
 There was no one left in the alley.
 
 In that spot, illuminated only by the light from the utility pole, the coating on the flyer reflected the light once more.
-
-**Position Filled**
-
+>**Position Filled**
+{: .paper }
 And, all the way down at the bottom of the crumpled, obscured paper…
 
-Daydream Inc.
-
-Namhae Branch
+>Daydream Inc.
+>
+>Namhae Branch
+{: .paper }
 
 **\*\*\***
 
@@ -340,11 +340,12 @@ I let out a sigh and leaned back in my chair.
 
 That conversation just reminded me of a KakaoTalk message I’d received
 
-**\- Hey, Kim Soleum, want a blind date?**
+> **\- Hey, Kim Soleum, want a blind date?**
 
-**\- You should definitely take this, lol**
+> **\- You should definitely take this, lol**
 
-**\- You didn’t actually develop a phobia of potential girlfriends because of “that incident,” did you?**
+> **\- You didn’t actually develop a phobia of potential girlfriends because of “that incident,” did you?**
+{: .textmsg }
 
 **Huh? lolol**
 
