@@ -49,3 +49,8 @@ nav {
 header {
     text-align: center; 
 }
+.chapterlist {
+  list-style: circle;
+  display: flex;
+  gap: 2rem;
+}
