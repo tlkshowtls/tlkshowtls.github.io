@@ -17,7 +17,7 @@
         {{ content }}
     </article>
     <article>
-    <div class="post-nav-next">
+    <div class="next">
       {% assign filename = page.path | split: '/' | last %}
       {% assign current_chapter = filename | remove: 'chapter-' | remove: '.html' | plus: 0 %}
       {% assign next_chapter = current_chapter | plus: 1 %}
