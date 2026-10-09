@@ -1,3 +1,8 @@
+---
+layout: default
+title: CHAPTER 372
+---
+
 # **CHAPTER 379**
 
 It was surprisingly common on the wiki to find that Daydream Inc. puts dozens or hundreds of people into a single ghost story at the same time.
