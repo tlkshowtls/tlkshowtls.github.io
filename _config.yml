@@ -8,3 +8,4 @@ collections:
     permalink: /chapters/:name.html
 url: "https://tlkshowtls.github.io"
 output: true
+comments: true
