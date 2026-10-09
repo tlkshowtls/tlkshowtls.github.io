@@ -16,11 +16,19 @@
     <article class = "chapter-content"> 
         {{ content }}
     </article>
-  </body>
-  {% assign current_chapter = page.name | remove: 'chapter-' | remove: '.html' | plus: 0 %}
-  {% assign next_chapter = current_chapter | plus: 1 %}
+    <article>
+    <div class="post-nav-next">
+      {% assign filename = page.path | split: '/' | last %}
+      {% assign current_chapter = filename | remove: 'chapter-' | remove: '.html' | plus: 0 %}
+      {% assign next_chapter = current_chapter | plus: 1 %}
+      {% assign next_filename = 'chapter-' | append: next_chapter | append: '.html' %}
+    
+      <a href="{{ page.url | split: '/' | pop | join: '/' }}/{{ next_filename }}">
+        <span class="unsighted">Next chapter:</span>
+        Chapter {{ next_chapter }} &raquo;
+      </a>
+    </div>
 
-<a href="chapter-{{ next_chapter }}.html">Next Chapter →</a>
 <div id="disqus_thread"></div>
 <script>
     /**
@@ -40,4 +48,7 @@
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </article>
+  </body>
+
 </html>
