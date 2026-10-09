@@ -19,6 +19,8 @@ h1 {
   gap: 2rem; 
   color: black; 
   margin: 0px; 
+  text-align: right; 
+
 
 
 }
@@ -45,7 +47,6 @@ nav {
   background-color: LightGray; 
   font-family: Georgia, serif; 
   font-size: 30px 
-  text-align: right; 
   margins: none;
 
   
