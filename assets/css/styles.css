@@ -3,7 +3,7 @@
 ---
 
 @import "{{ kys }}";
-
+@import url('https://googleapis.com');
 body {
   font-family: Georgia, serif; 
 }
